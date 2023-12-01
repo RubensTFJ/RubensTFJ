@@ -5,6 +5,6 @@ Welcome to My Git. 👋
  
   I'm Currently a 42Lisboa Software Engineer Student. Proficient in C, Mastering Java and C++. Some Experience with SQL, HTML, CSS, JavaScript, Python and C#.
   
-  I have concluded Harvards CS50 Introduction to Computer Science.
+  While finishing the 42's Course I have concluded Harvards CS50 Introduction to Computer Science.
   I have concluded a Harvard Leadership Program.
   I'm currently learning a Java Course.
