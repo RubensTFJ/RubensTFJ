@@ -6,13 +6,13 @@ Welcome to My Git. 👋
   I'm Currently a Software Engineer at Nokia, and a 42Lisbon student. Proficient in C, Mastering C++, Go and TypeScript.
 
   Professional Experience with:
-   - Mobile:
-     Kotlin (Android Studio)
-     PHP Laravel
+   - Mobile:<br>
+     Kotlin (Android Studio)<br>
+     PHP Laravel<br>
 
-   - Web:
-     TypeScript (React, Express)
-     HTML, CSS (React, Tailwind)
+   - Web:<br>
+     TypeScript (React, Express)<br>
+     HTML, CSS (React, Tailwind)<br>
 
-   - Database:
+   - Database:<br>
      PostgreSQL
