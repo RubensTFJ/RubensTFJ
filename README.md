@@ -1,10 +1,18 @@
 Welcome to My Git. 👋
 
  - Check my "Latest-Projects" repository to see my most interesting Projects.
- - If you are looking for help with Projects feel free to consult my repositories and to contact me.
+ - Looking for help with a project? Feel free to browse my repositories or reach out!
  
-  I'm Currently an Android Developer for a startup, a Full-Stack developer on a freelance project and a 42Lisboa Software Engineer Student. Proficient in C, Mastering Kotlin and TypeScript.
-  
-  While finishing the 42's Course I have concluded Harvards CS50 Introduction to Computer Science.
-  I have concluded a Harvard Leadership Program.
-  I'm currently learning a Java Course.
+  I'm Currently a Software Engineer at Nokia, and a 42Lisbon student. Proficient in C, Mastering C++, Go and TypeScript.
+
+  Professional Experience with:
+   - Mobile:
+     Kotlin (Android Studio)
+     PHP Laravel
+
+   - Web:
+     TypeScript (React, Express)
+     HTML, CSS (React, Tailwind)
+
+   - Database:
+     PostgreSQL
